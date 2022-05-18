@@ -102,8 +102,8 @@ a:hover{
 
     height: 30%;
     position: absolute;
-    right: 595px;
-    top: 490px;
+    right: /*595px*/37.1875em;
+    top: /*490px*/30.625em;
     
 }
 
