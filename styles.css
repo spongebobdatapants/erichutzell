@@ -42,7 +42,7 @@ hr{
     border-style: none;
     border-top: 5px dotted grey;
     border-width: 5px;
-    margin: 100px auto;
+    /*margin: 100px auto;*/
     opacity: 0.2;
     width: 3%;
 }
